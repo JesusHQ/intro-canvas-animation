@@ -170,7 +170,7 @@ const img = new Image();
 
 // User Variables - customize these to change the image being scrolled, its
 // direction, and the speed.
-img.src = "Panorama2.jpg";
+img.src = "panorama2.jpg";
 const canvasXSize = 800;
 const canvasYSize = 200;
 const speed = 30; // lower is faster
